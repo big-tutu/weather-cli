@@ -1,1 +1,0 @@
-const weatherFn = require('../index');
